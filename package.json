@@ -5,6 +5,14 @@
   "main": "index.js",
   "author": "malbernaz <albernazmiguel@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/malbernaz/blog-post-loader.git",
+  "homepage": "https://github.com/malbernaz/blog-post-loader",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "markdown",
+    "frontmatter"
+  ],
   "scripts": {
     "test": "node ./test"
   },
